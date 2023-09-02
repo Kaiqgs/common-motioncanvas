@@ -1,0 +1,17 @@
+{
+  "extends": "@motion-canvas/2d/tsconfig.project.json",
+  "rootDir": "src",
+  "inlineSourceMap": true,
+  "inlineSources": true,
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": [
+    "src"
+  ],
+  "references": [
+    {
+      "path": "../kags-dev"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "extends": "@motion-canvas/2d/tsconfig.project.json",
+  "composite": true,
+  "rootDir": "src",
+  "outDir": "dist",
+  "declaration": true,
+  "declarationMap": true,
+  "inlineSourceMap": true,
+  "inlineSources": true,
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": [
+    "src"
+  ]
+}

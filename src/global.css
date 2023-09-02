@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"');
+
+@font-face {
+  font-family: 'VT323';
+  src: local('VT323'),
+    url(../public/fonts/VT323-Regular.ttf) format('truetype');
+}
+
